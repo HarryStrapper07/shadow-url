@@ -1,4 +1,4 @@
-HARRY URL MASKER
+SHADOW URL MASKER
 ================
 
 A simple Python CLI tool that shortens a URL using multiple URL shortener
