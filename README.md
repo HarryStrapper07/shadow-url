@@ -30,7 +30,7 @@ INSTALLATION
 
 1. Clone the repository:
 
-   git clone https://github.com/HarryStrapper07/shadow-urlYOUR-REPOSITORY-URL>
+   git clone https://github.com/HarryStrapper07/shadow-url
 
 2. Install the required Python package:
 
@@ -41,7 +41,7 @@ USAGE
 -----
 Run the Python script:
 
-   python <YOUR-SCRIPT-NAME>.py
+   python shadowurl.py
 
 The tool will ask for:
 
@@ -58,7 +58,7 @@ Example:
 
 PROJECT FILES
 -------------
-- <YOUR-SCRIPT-NAME>.py   Main Python program
+- shadowurl.py   Main Python program
 - requirements.txt        Python dependency list
 - README.txt              Project documentation
 
